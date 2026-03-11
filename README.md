@@ -8,11 +8,6 @@ Welcome to my GitHub profile! I'm a **Media Technology** student to  build cool 
 
 I'm a student developer with a strong foundation in systems programming and a growing passion for emerging technologies. I love diving deep into complex problems and turning ideas into reality through code. Whether it's crafting efficient algorithms in C++ or building sleek apps with TypeScript, I'm always up for a challenge!
 
-
--  **Builder** — I enjoy creating projects that solve real problems
--  **Collaborator** — open to working on exciting open-source projects
--  **Fun fact** — I believe the best code is the code you haven't written yet
-
 ---
 
 ##  Tech Stack
@@ -35,10 +30,10 @@ Here's a snapshot of the technologies I work with:
 
 I'm currently exploring some exciting areas that sit at the intersection of software and the real world:
 
-- 🤖 **Artificial Intelligence** — diving into ML fundamentals, neural networks, and model training
-- 👁️ **Computer Vision** — exploring image processing, object detection, and OpenCV
-- 🔌 **Embedded Systems** — getting hands-on with microcontrollers and low-level hardware programming
-- 📱 **App Development** — building cross-platform mobile and desktop applications
+-  **Artificial Intelligence** — diving into ML fundamentals, neural networks, and model training
+-  **Computer Vision** — exploring image processing, object detection, and OpenCV
+-  **Embedded Systems** — getting hands-on with microcontrollers and low-level hardware programming
+-  **App Development** — building cross-platform mobile and desktop applications
 
 ---
 
@@ -51,10 +46,7 @@ I'm currently exploring some exciting areas that sit at the intersection of soft
 
 ## 🌱 What I'm Learning Next
 
-- [ ] 🧠 Deep Learning & Neural Networks
-- [ ] 📷 Advanced Computer Vision techniques
-- [ ] 🤖 Robotics & Embedded Linux
-- [ ] 📦 Full-stack App Development
+**WIP**
 
 ---
 
