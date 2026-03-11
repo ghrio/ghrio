@@ -1,6 +1,6 @@
 ## Hi there, I'm a passionate Student Developer! 👋
 
-Welcome to my GitHub profile! I'm a Computer Science student on a mission to build cool things, solve real-world problems, and grow as a developer — one commit at a time. 🚀
+Welcome to my GitHub profile! I'm a **Media Technology** student at **TH Köln** on a mission to build cool things, solve real-world problems, and grow as a developer — one commit at a time. 🚀
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Computer Science student on a mission to bui
 
 I'm a student developer with a strong foundation in systems programming and a growing passion for emerging technologies. I love diving deep into complex problems and turning ideas into reality through code. Whether it's crafting efficient algorithms in C++ or building sleek apps with TypeScript, I'm always up for a challenge!
 
-- 🎓 **Student** — constantly learning, always curious
+- 🎓 **Media Technology @ TH Köln** — constantly learning, always curious
 - 💡 **Builder** — I enjoy creating projects that solve real problems
 - 🤝 **Collaborator** — open to working on exciting open-source projects
 - ⚡ **Fun fact** — I believe the best code is the code you haven't written yet
