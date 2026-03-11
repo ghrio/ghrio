@@ -26,7 +26,7 @@ Here's a snapshot of the technologies I work with:
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 
 I'm currently exploring some exciting areas that sit at the intersection of software and the real world:
 
@@ -44,10 +44,9 @@ I'm currently exploring some exciting areas that sit at the intersection of soft
 
 ---
 
-## 🌱 What I'm Learning Next
+##  What I'm Learning Next
 
 **WIP**
 
 ---
 
-⭐️ _Thanks for visiting my profile! If you find my projects interesting, don't forget to leave a star!_ ⭐️
