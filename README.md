@@ -1,37 +1,33 @@
-## Hi there, I'm a passionate Student Developer! 👋
+## Hi there, I'm a passionate Student Developer!
 
-Welcome to my GitHub profile! I'm a **Media Technology** student at **TH Köln** on a mission to build cool things, solve real-world problems, and grow as a developer — one commit at a time. 🚀
+Welcome to my GitHub profile! I'm a **Media Technology** student to  build cool things, solve real-world problems, and grow as a developer — one commit at a time. 
 
 ---
 
-## 🙋 About Me
+##  About Me
 
 I'm a student developer with a strong foundation in systems programming and a growing passion for emerging technologies. I love diving deep into complex problems and turning ideas into reality through code. Whether it's crafting efficient algorithms in C++ or building sleek apps with TypeScript, I'm always up for a challenge!
 
-- 🎓 **Media Technology @ TH Köln** — constantly learning, always curious
-- 💡 **Builder** — I enjoy creating projects that solve real problems
-- 🤝 **Collaborator** — open to working on exciting open-source projects
-- ⚡ **Fun fact** — I believe the best code is the code you haven't written yet
+
+-  **Builder** — I enjoy creating projects that solve real problems
+-  **Collaborator** — open to working on exciting open-source projects
+-  **Fun fact** — I believe the best code is the code you haven't written yet
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 Here's a snapshot of the technologies I work with:
 
 ### Languages
-| Language | Level |
-|---|---|
-| **C++** | ⭐⭐⭐⭐ Proficient |
-| **Python** | ⭐⭐⭐⭐ Proficient |
-| **TypeScript** | ⭐⭐⭐⭐ Proficient |
-| **Golang** | ⭐⭐⭐ Intermediate |
+
+| **C++** | **Python** | **TypeScript** | **Golang** |
 
 ### Tools & Ecosystem
-- 🧰 **Systems & Performance** — C++ (STL, memory management, algorithms)
-- 🐍 **Scripting & Data** — Python (NumPy, OpenCV, scripting)
-- 🌐 **Web & Apps** — TypeScript (Node.js, frontend frameworks)
-- ⚙️ **Backend & Services** — Golang (concurrent programming, microservices)
+- **Systems & Performance** — C++ (STL, memory management, algorithms)
+- **Scripting & Data** — Python (NumPy, OpenCV, scripting)
+- **Web & Apps** — TypeScript (Node.js, frontend frameworks)
+- **Backend & Services** — Golang (concurrent programming, microservices)
 
 ---
 
@@ -43,8 +39,6 @@ I'm currently exploring some exciting areas that sit at the intersection of soft
 - 👁️ **Computer Vision** — exploring image processing, object detection, and OpenCV
 - 🔌 **Embedded Systems** — getting hands-on with microcontrollers and low-level hardware programming
 - 📱 **App Development** — building cross-platform mobile and desktop applications
-
-> _"The expert in anything was once a beginner."_ — Helen Hayes
 
 ---
 
@@ -61,14 +55,6 @@ I'm currently exploring some exciting areas that sit at the intersection of soft
 - [ ] 📷 Advanced Computer Vision techniques
 - [ ] 🤖 Robotics & Embedded Linux
 - [ ] 📦 Full-stack App Development
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to connecting with fellow developers, mentors, and collaborators. Feel free to reach out!
-
-> 💬 _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
 
 ---
 
